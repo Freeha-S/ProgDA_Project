@@ -2,7 +2,7 @@
 
 ## Module: Programming for Data Analysis
 
-## Lecturer: Dr. Brian Mc'Ginley
+## Lecturer: Dr. Brian McGinley
 
 # Introduction
 This repositery contains all files and folders of my submissions for ProgDA_Project 2019. This project is part of assessment for Module "Programming for Data Analysis" at GMIT. This repository contains
@@ -12,9 +12,15 @@ This repositery contains all files and folders of my submissions for ProgDA_Proj
    - Attempts [folder containg all the different dataset and jupyter notebooks that I worked on]
 
 To download this repository 
-1. from https://github.com/Freeha-S/numpy-random
+1. from https://github.com/Freeha-S/ProgDA-Project
 2. click on [Clone and download]
 3. select Download zip
+
+To view online in nbviewr
+
+1. click the link https://nbviewer.jupyter.org/
+2. copy the link : https://github.com/Freeha-S/ProgDA-Project/blob/master/ProgDA-Project.ipynb in given textbox
+3. click Go!button or press return key
 
 # Objective
 
